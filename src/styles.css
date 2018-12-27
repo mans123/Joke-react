@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+.joke {
+  border: 1px solid lightgray;
+  margin: 5px;
+  border-radius: 5px;
+  display: flex;
+  flex-flow: column wrap;
+}
